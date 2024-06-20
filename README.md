@@ -1,6 +1,6 @@
-Modified MIT License
+MIT License
 
-Copyright (c) 2024 Ankit Gupta
+Copyright (c) 2024
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -14,12 +14,12 @@ copies of the Software, provided that the following conditions are met:
 
 2. Notification Clause: Any use, reproduction, distribution, or modification of
    the Software, or derivative works thereof, by other parties must be 
-   notified to the copyright holder (Ankit Gupta) prior to such use, reproduction,
+   notified to the copyright holder prior to such use, reproduction,
    distribution, or modification.
 
-3. Neither the name of the Ankit Gupta nor the names of its contributors may be
-   used to endorse or promote products derived from this software without 
-   specific prior written permission.
+3. The names of the authors or copyright holders may not be used to endorse or
+   promote products derived from this software without specific prior written
+   permission.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
